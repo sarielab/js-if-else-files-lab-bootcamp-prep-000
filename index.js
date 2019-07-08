@@ -1,5 +1,5 @@
 let name = "Susan"
-let height = "74"
+let height = "70"
 
 
 // Don't worry about this
